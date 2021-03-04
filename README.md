@@ -8,9 +8,9 @@
 
 [Ejercicios Basicos de Python](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/Ej_Python_1797033.ipynb)
 
-[Prácticas de limpieza de datos]
+[Prácticas de limpieza de datos](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Ej_Limpieza_2.ipynb)
 
-[Avance del PIA]
+[Avance del PIA](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Avance1_PIA_2.ipynb)
 
 ## Fase II
 
