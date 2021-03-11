@@ -14,4 +14,6 @@
 
 ## Fase II
 
+[Presentacion](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Presentacion_RegresionLineal_2.pdf)
+
 ## Fase III
