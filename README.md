@@ -18,4 +18,6 @@
 
 [Calificacion de Kahoot](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/Calificaci%C3%B3n_Regresion-Lineal_Equipo-2.pdf)
 
+[Mapa Mental 2]([Calificacion de Kahoot](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/MapaMental_2_1797033.pdf))
+
 ## Fase III
