@@ -14,7 +14,7 @@
 
 ## Fase II
 
-[Presentacion](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Presentacion_RegresionLineal_2.pdf)
+[Presentacion de técnicas](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Presentacion_RegresionLineal_2.pdf)
 
 [Calificacion de Kahoot](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/Calificaci%C3%B3n_Regresion-Lineal_Equipo-2.pdf)
 
