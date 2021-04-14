@@ -20,4 +20,6 @@
 
 [Mapa Mental II](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/MapaMental_2_1797033.pdf)
 
+[Práctica de Visualización](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/Visualizacion_2.ipynb)
+
 ## Fase III
