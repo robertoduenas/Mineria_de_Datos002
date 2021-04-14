@@ -8,7 +8,7 @@
 
 [Ejercicios Basicos de Python](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/Ej_Python_1797033.ipynb)
 
-[Prácticas de limpieza de datos](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Ej_Limpieza_2.ipynb)
+[Práctica de limpieza de datos](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Ej_Limpieza_2.ipynb)
 
 [Avance del PIA](https://github.com/lizbethaltamirano/MIneria_de_Datos/blob/Mineria_de_Datos/Avance1_PIA_2.ipynb)
 
@@ -20,6 +20,6 @@
 
 [Mapa Mental II](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/MapaMental_2_1797033.pdf)
 
-[Práctica de Visualización](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/Visualizacion_2.ipynb)
+[Práctica de Visualización de Datos](https://github.com/robertoduenas/Mineria_de_Datos002/blob/main/Visualizacion_2.ipynb)
 
 ## Fase III
